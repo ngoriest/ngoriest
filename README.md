@@ -26,6 +26,7 @@ Ready to contribute, learn, and grow within a supportive engineering team.
 **Currently Learning**  
 - Next.js, TypeScript, API Design, AI training  
 
+---
 
 ## 🔥 Featured Projects
 *"A project is worth a thousand resumes."*  
