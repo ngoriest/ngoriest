@@ -9,13 +9,23 @@ Ready to contribute, learn, and grow within a supportive engineering team.
 
 ---
 
-## 🚀 Tech Stack & Skills
-**Frontend: React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Vite
-**Backend: Python (Flask, Django), Node.js
-**Databases: MongoDB, PostgreSQL, MySQL, SQLite
-**Tools & Deployment: Git, GitHub, Docker, Vercel, Render, Netlify, Postman, Figma, Canva, DrawSQL
-**Currently Learning: Next.js, TypeScript, API Designs, AI training
----
+## 🚀 Tech Stack & Skills  
+
+**Frontend**  
+- React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Vite  
+
+**Backend**  
+- Python (Flask, Django), Node.js  
+
+**Databases**  
+- MongoDB, PostgreSQL, MySQL, SQLite  
+
+**Tools & Deployment**  
+- Git, GitHub, Docker, Vercel, Render, Netlify, Postman, Figma, Canva, DrawSQL  
+
+**Currently Learning**  
+- Next.js, TypeScript, API Design, AI training  
+
 
 ## 🔥 Featured Projects
 *"A project is worth a thousand resumes."*  
