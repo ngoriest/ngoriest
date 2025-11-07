@@ -1,156 +1,348 @@
-# 💫 About Me
-👨‍💻 Hi, I'm **Manase Kimutai** | Full-Stack Developer  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manase+Kimutai!;" />
+</h1>
 
-**AKA The Code Alchemist 🪄💻**  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ngoriest.ngoriest" />
+  <img src="https://img.shields.io/github/followers/ngoriest?label=Followers&style=social" />
+</div>
 
-A motivated and detail-oriented full-stack developer passionate about building scalable, user-focused applications.  
-I’m actively seeking my first professional opportunity while sharpening my skills through real-world projects.  
-Ready to contribute, learn, and grow within a supportive engineering team.  
+<h3 align="center">🪄 Code Alchemist | Full-Stack Developer | AI Enthusiast</h3>
 
----
+<p align="center">
+  <em>Transforming ideas into production-ready applications through clean code and cutting-edge technology</em>
+</p>
 
-## 🚀 Tech Stack & Skills  
+<div align="center">
 
-**Frontend**  
-- React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Vite  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00C7B7?style=for-the-badge&logo=firefox&logoColor=white)](https://elmanase.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasekimutai)
+[![Email](https://img.shields.io/badge/Email-mernasseh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mernasseh@gmail.com)
 
-**Backend**  
-- Python (Flask, Django), Node.js  
-
-**Databases**  
-- MongoDB, PostgreSQL, MySQL, SQLite  
-
-**Tools & Deployment**  
-- Git, GitHub, Docker, Vercel, Render, Netlify, Postman, Figma, Canva, DrawSQL  
-
-**Currently Learning**  
-- Next.js, TypeScript, API Design, AI training  
+</div>
 
 ---
 
-## 🔥 Featured Projects
-*"A project is worth a thousand resumes."*  
+## 🚀 About Me
 
-### **Job Tracker App | Flask, React, Tailwind CSS**  
-🔗 [Live Demo](https://job-tracker-app-phi.vercel.app) | [Video Presentation](https://www.loom.com/share/b8947c5061774f42b43fdc68fd3d882b?sid=007f3438-6d5f-4700-b404-28307c963b2c) | [Source Code](https://github.com/ngoriest/Job-tracker-app)  
+```javascript
+const manase = {
+  pronouns: "he" | "him",
+  location: "Eldoret, Kenya 🇰🇪",
+  role: "Full-Stack Developer",
+  code: ["JavaScript", "Python", "TypeScript"],
+  frameworks: ["React", "Flask", "Node.js", "Next.js", "Django"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
+  tools: ["Docker", "Git", "Vercel", "Tailwind CSS", "Postman"],
+  architecture: ["Microservices", "REST APIs", "AI Integration"],
+  education: "Moringa School + Self-Taught Developer",
+  background: "Education Science → Software Engineering",
+  passion: "Building solutions that solve real-world problems",
+  currentFocus: "Generative AI & Full-Stack Development",
+  philosophy: "Strive to outdo yesterday's you",
+  funFact: "My GitHub is a blend of serious builds and experimental chaos"
+};
+```
 
-A full-stack job application tracking system that helps users stay organized during the job hunt:  
-- 🔐 Secure user authentication with JWT  
-- 📊 Dashboard for managing job applications  
-- ✅ Task manager for tracking application-related actions  
-- 🎨 Clean, responsive UI built with React + Tailwind  
-
----
-
-### **Tuinue Wasichana | Social Impact Platform**  
-🔗 [Source Code](https://github.com/Xazerr/Tuinue-Wasichana)  
-
-A platform supporting **girls’ education and empowerment** in underserved communities:  
-- 📚 Access to scholarships, mentorship, and resources  
-- 🛠 Tools for organizations to track and support beneficiaries  
-- 🌍 Built for social impact with a focus on accessibility  
-
----
-
-## 🌱 Upcoming Projects (Work in Progress)
-
-### **Dikoras | LegalTech Platform**  
-A full-stack web app designed to make **legal services more accessible and affordable**.  
-- On-demand legal research, document drafting, and consultations  
-- Lawyer dashboard for case, contract, and client management  
-- Secure authentication and scalable backend  
+I'm a motivated and detail-oriented developer passionate about creating scalable, user-focused applications. Currently seeking my first professional opportunity where I can contribute, learn, and grow within a supportive engineering team.
 
 ---
 
-### **Inkwave Collective | Media & Communication Hub**  
-An **end-to-end communication and media solutions platform** for creatives and organizations.  
-- Collaboration tools for file sharing, chat, and project tracking  
-- Real-time communication via integrated chat and video  
-- Professional media showcase for branding and campaigns  
+## 🛠️ Tech Stack & Skills
+
+### **Frontend & Design**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+### **Backend & APIs**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Tools & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Currently Learning**
+![AI](https://img.shields.io/badge/AI_Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-### **BiblePal | Christian Community & Charity App**  
-A mobile-friendly platform helping **Christians connect with pastors, communities, and charities**.  
-- Prayer requests, counseling sessions, and bible study groups  
-- Verified pastor and mentor access  
-- Donation feature supporting Christian causes transparently  
+## 🌟 Featured Projects
+
+> *"A project is worth a thousand resumes."*
+
+### **🎯 Job Tracker Pro** | Full-Stack Application
+**Stack:** Flask • React • Tailwind CSS • JWT • MongoDB
+
+A comprehensive job application management system that helps users stay organized during their job hunt.
+
+🔗 **[Live Demo](https://job-tracker-app-phi.vercel.app)** | 📹 **[Video Walkthrough](https://www.loom.com/share/b8947c5061774f42b43fdc68fd3d882b)** | 💻 **[Source Code](https://github.com/ngoriest/Job-tracker-app)**
+
+**Key Features:**
+- 🔐 Secure JWT authentication system
+- 📊 Interactive dashboard with application analytics
+- ✅ Smart task manager for tracking follow-ups and deadlines
+- 🎨 Clean, responsive UI built with React + Tailwind CSS
+- 📱 Mobile-first design approach
+- 🔄 Real-time updates and state management
+
+**Technical Highlights:**
+- RESTful API architecture
+- Token-based authentication
+- Responsive design patterns
+- Optimized database queries
 
 ---
 
-### **Muratina | E-Commerce for Traditional Drinks**  
-A niche e-commerce platform dedicated to **selling Muratina**, a traditional Kenyan drink.  
-- Product catalog with secure checkout and order tracking  
-- Vendor dashboard for stock and pricing management  
-- Future scope: logistics integration and M-Pesa mobile payments  
+### **🌍 Tuinue Wasichana** | Social Impact Platform
+**Stack:** React • Python • PostgreSQL
+
+Empowering girls' education and creating opportunities in underserved communities across Kenya.
+
+💻 **[Source Code](https://github.com/Xazerr/Tuinue-Wasichana)**
+
+**Impact Areas:**
+- 📚 Scholarship & resource access portal
+- 👥 Mentorship program management
+- 📊 Beneficiary tracking and reporting system
+- 🌍 Community engagement and outreach tools
+- 🛠️ NGO administrative dashboard
+
+**Mission:**
+Built with accessibility and social impact at its core, helping organizations track and support beneficiaries while connecting students with life-changing opportunities.
 
 ---
 
-## 🎯 Current Goals
-- ✅ Secure a challenging Full-Time or Internship role as a Front-End or Full-Stack Developer  
-- 🔨 Contribute to meaningful open-source projects to give back and grow  
-- 🏆 Participate in hackathons to improve collaboration and problem-solving skills  
+## 🔥 Projects in Development
+
+<details>
+<summary><b>⚖️ Dikoras - LegalTech Platform</b> 🚧 Active Development</summary>
+
+<br>
+
+Making legal services accessible and affordable for everyone.
+
+**Tech Stack:** Full-Stack Web Application  
+**Target Users:** Individuals seeking legal help, Lawyers, Law Firms
+
+**Core Features:**
+- 📄 On-demand legal research and document drafting
+- 💼 Comprehensive lawyer dashboard for case management
+- 📝 Contract and document automation
+- 🔒 Secure client-attorney communication
+- 💳 Integrated payment processing
+- 📊 Analytics and reporting tools
+
+**Innovation:** Bridging the gap between legal professionals and clients through technology.
+
+</details>
+
+<details>
+<summary><b>🎨 Inkwave Collective - Media Solutions Hub</b> 💡 Planning Phase</summary>
+
+<br>
+
+End-to-end communication and media platform for creatives and organizations.
+
+**Tech Stack:** Real-time Web Application  
+**Target Users:** Creatives, Media Professionals, Organizations
+
+**Core Features:**
+- 💬 Real-time chat and video conferencing
+- 📁 Collaborative file sharing and project management
+- 🎥 Professional media showcase and portfolio
+- 🔔 Notification system for project updates
+- 👥 Team collaboration tools
+- 🎨 Campaign and branding resources
+
+**Vision:** Empowering creatives to collaborate seamlessly and showcase their work professionally.
+
+</details>
+
+<details>
+<summary><b>✝️ BiblePal - Christian Community App</b> 💭 Concept Development</summary>
+
+<br>
+
+Connecting Christians with spiritual support, pastors, and charitable causes.
+
+**Tech Stack:** Mobile-Friendly Web Application  
+**Target Users:** Christians, Pastors, Church Communities, Charities
+
+**Core Features:**
+- 🙏 Prayer request management system
+- 📞 Pastor counseling and booking sessions
+- 📖 Bible study groups and resources
+- ✅ Verified pastor and mentor profiles
+- 💝 Transparent charity donation platform
+- 🌐 Community forums and discussions
+
+**Purpose:** Building a trusted digital space for faith-based connection and support.
+
+</details>
+
+<details>
+<summary><b>🍺 Muratina - Traditional Drinks E-Commerce</b> 🎯 Concept Stage</summary>
+
+<br>
+
+Niche marketplace celebrating traditional Kenyan beverages and culture.
+
+**Tech Stack:** E-Commerce Platform  
+**Target Users:** Consumers, Traditional Drink Vendors
+
+**Core Features:**
+- 🛒 Product catalog with detailed descriptions
+- 💳 Secure checkout and payment processing
+- 📦 Order tracking and delivery management
+- 👨‍💼 Vendor dashboard for inventory and pricing
+- 📱 M-Pesa integration (planned)
+- 📊 Sales analytics for vendors
+
+**Mission:** Preserving and promoting traditional Kenyan culture through e-commerce.
+
+</details>
 
 ---
 
-## 📈 My Coding Journey
-**Education:** : Studied Full-Stack Software Engineering at Moringa School and further advanced my skills as a self-taught developer, driven by a passion for problem-solving and innovation.
-**Background:** Transitioned from Education Science to Software Engineering, driven by a passion for problem-solving and innovation.  
-**Approach:** Advocate for clean, maintainable code and creative debugging.  
-**Mindset:** *"Strive to outdo yesterday’s you."*  
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngoriest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoriest&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ngoriest&theme=tokyonight&hide_border=true)
+  
+</div>
 
 ---
 
-## 📫 Let's Connect!
-💌 Email: **mernasseh@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/manasekimutai](https://linkedin.com/in/manasekimutai)  
-🌐 Portfolio: **elmanase.com** *(coming soon)*  
+## 🏆 GitHub Achievements
 
-*Let's build the future, one commit at a time. 🌍🔥*  
-
-P.S. My GitHub is a blend of serious builds and experimental chaos — because innovation needs both!  
-
----
-
-# 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ngoriest&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ngoriest&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=ngoriest&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoriest&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+## 💻 Development Activity
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░   48.5%
+JavaScript   8 hrs 15 mins   ████████░░░░░░░░░░░░░   32.1%
+TypeScript   3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   14.6%
+SQL          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░   4.8%
+```
+<!--END_SECTION:waka-->
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ngoriest&theme=dark&no-frame=false&no-bg=true&margin-w=4)  
+## 🎯 Current Goals & Roadmap
+
+- [x] **Complete Full-Stack Software Engineering Training at Moringa School**
+- [x] **Build and Deploy Multiple Production Applications**
+- [ ] **Secure First Professional Role as Full-Stack/Frontend Developer** 🎯
+- [ ] **Master Generative AI Integration in Web Applications**
+- [ ] **Contribute to Impactful Open Source Projects**
+- [ ] **Participate in Hackathons and Coding Competitions**
+- [ ] **Complete TypeScript & Next.js Advanced Courses**
+- [ ] **Build Production-Grade AI-Powered Applications**
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## 💭 Developer Philosophy
+
+```python
+while coding:
+    learn()
+    build()
+    test()
+    ship()
+    improve()
+    # Repeat: Strive to outdo yesterday's you
+
+# Core Values
+values = {
+    "code_quality": "Clean, maintainable, and well-documented",
+    "debugging": "Creative problem-solving mindset",
+    "collaboration": "Open communication and teamwork",
+    "learning": "Continuous growth and adaptation",
+    "shipping": "Focus on functional, user-centered solutions"
+}
+```
+
+I believe in:
+- ✨ Writing clean, maintainable code that others can understand
+- 🔍 Creative debugging and problem-solving approaches
+- 🤝 Collaborative development and knowledge sharing
+- 📖 Continuous learning and staying current with tech trends
+- 🚀 Shipping functional solutions that solve real problems
+- 🎨 Balancing innovation with practical implementation
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ngoriest&icon=0&color=0)](https://visitcount.itsvg.in)  
+## 💬 Random Dev Wisdom
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+I'm always open to interesting conversations, collaboration opportunities, and learning from fellow developers. Whether you're looking to build something amazing, need help on a project, or just want to chat about tech, feel free to reach out!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00C7B7?style=for-the-badge&logo=firefox&logoColor=white)](https://elmanase.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasekimutai)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mernasseh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngoriest)
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Building+the+future,+one+commit+at+a+time...;Innovation+needs+both+logic+and+chaos!;Let's+create+something+amazing+together!" />
+
+### 💡 **"Strive to outdo yesterday's you."**
+
+*P.S. My GitHub is a blend of serious builds and experimental chaos — because innovation needs both!*
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
