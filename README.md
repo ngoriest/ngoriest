@@ -15,9 +15,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00C7B7?style=for-the-badge&logo=firefox&logoColor=white)](manase-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_🚀-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://manase-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasekimutai)
-[![Email](https://img.shields.io/badge/Email-mernasseh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mernasseh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngoriest)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mernasseh@gmail.com)
 
 </div>
 
