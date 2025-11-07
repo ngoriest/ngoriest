@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00C7B7?style=for-the-badge&logo=firefox&logoColor=white)](https://elmanase.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00C7B7?style=for-the-badge&logo=firefox&logoColor=white)](manase-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasekimutai)
 [![Email](https://img.shields.io/badge/Email-mernasseh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mernasseh@gmail.com)
 
