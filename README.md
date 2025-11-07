@@ -226,46 +226,6 @@ Niche marketplace celebrating traditional Kenyan beverages and culture.
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngoriest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoriest&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=ngoriest&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ngoriest&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-## 💻 Development Activity
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░   48.5%
-JavaScript   8 hrs 15 mins   ████████░░░░░░░░░░░░░   32.1%
-TypeScript   3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   14.6%
-SQL          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░   4.8%
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 🎯 Current Goals & Roadmap
 
 - [x] **Complete Full-Stack Software Engineering Training at Moringa School**
