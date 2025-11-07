@@ -53,6 +53,7 @@ I'm a motivated and detail-oriented developer passionate about creating scalable
 ### **Frontend & Design**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -63,14 +64,16 @@ I'm a motivated and detail-oriented developer passionate about creating scalable
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -131,17 +134,12 @@ Built with accessibility and social impact at its core, helping organizations tr
 
 ---
 
-## 🔥 Projects in Development
+### **⚖️ Dikoras** | LegalTech Platform
+**Stack:** Full-Stack Web Application
 
-<details>
-<summary><b>⚖️ Dikoras - LegalTech Platform</b> 🚧 Active Development</summary>
+Making legal services accessible and affordable for everyone in Kenya and beyond.
 
-<br>
-
-Making legal services accessible and affordable for everyone.
-
-**Tech Stack:** Full-Stack Web Application  
-**Target Users:** Individuals seeking legal help, Lawyers, Law Firms
+🔗 **[Live Website](https://dikoras.com)** | 🔒 *Repository: Private*
 
 **Core Features:**
 - 📄 On-demand legal research and document drafting
@@ -151,7 +149,28 @@ Making legal services accessible and affordable for everyone.
 - 💳 Integrated payment processing
 - 📊 Analytics and reporting tools
 
-**Innovation:** Bridging the gap between legal professionals and clients through technology.
+**Target Users:** Individuals seeking legal help, Lawyers, Law Firms
+
+**Innovation:** Bridging the gap between legal professionals and clients through technology, making legal services more accessible and affordable.
+
+---
+
+## 🔥 Projects in Development
+
+<details>
+<summary><b>⚖️ Dikoras Expansion</b> 🚧 Continuous Development</summary>
+
+<br>
+
+Ongoing feature development and scaling for the Dikoras platform.
+
+**Upcoming Features:**
+- 🌍 Multi-language support
+- 📱 Mobile application
+- 🤖 AI-powered legal document analysis
+- 💬 Live chat support
+- 📚 Legal resource library
+- 🎓 Educational content for users
 
 </details>
 
